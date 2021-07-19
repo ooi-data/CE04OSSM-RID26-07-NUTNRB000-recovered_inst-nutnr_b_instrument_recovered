@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE04OSSM-RID26-07-NUTNRB000-recovered_inst-nutnr_b_instrument_recovered
-last_request: '2021-05-04T22:51:37.043706Z'
+last_request: '2021-07-19T18:36:56.595276Z'
 response: https://raw.githubusercontent.com/ooi-data/CE04OSSM-RID26-07-NUTNRB000-recovered_inst-nutnr_b_instrument_recovered/main/history/response.json
-status: success
+status: pending
